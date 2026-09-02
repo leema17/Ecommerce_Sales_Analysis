@@ -1,0 +1,38 @@
+#  Day 07 - Product & Customer Analysis (using python)
+
+##  Objective
+
+Analyze products and customers to identify top performers and products that generate losses.
+
+## Tasks Completed
+
+- Identified the top 10 products by sales.
+- Identified the top 10 products by profit.
+- Identified the bottom 10 products by profit.
+- Identified the top 10 customers by sales.
+- Identified the top 10 customers by profit.
+
+---
+
+## Skills Learned
+
+- Using `head()` to retrieve top records.
+- Ranking products and customers using `groupby()` and `sort_values()`.
+- Identifying high-performing and low-performing products.
+- Supporting business decisions using data analysis.
+
+---
+
+## Business Recommendations
+
+- Reward high-profit customers through loyalty programs.
+- Review pricing and discount strategies for customers with high sales but low profit margins.
+- Focus marketing efforts on customers who generate both high sales and strong profitability.
+
+
+---
+
+## Conclusion
+
+The analysis highlights the company's best-performing products and customers while identifying products that negatively impact profitability. 
+These insights can help improve inventory management, pricing strategies, and customer relationship management.

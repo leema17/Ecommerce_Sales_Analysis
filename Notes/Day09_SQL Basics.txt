@@ -1,0 +1,23 @@
+# Day09 - SQL Basics (using SQL)
+
+## Summary
+- Successfully imported the Superstore dataset into MySQL.
+- Total Orders: 9,994
+- Average Sales: 229.86
+- Highest Profit: 8,399.98
+- Biggest Loss: -6,599.98
+
+## Skills Learned
+- SELECT
+- WHERE
+- ORDER BY
+- LIMIT
+- COUNT()
+- AVG()
+- MAX()
+- MIN()
+
+## Notes
+Today I learned the fundamentals of SQL using MySQL.
+I successfully imported the Superstore dataset and practiced retrieving, filtering, sorting, and summarizing data.
+These skills form the foundation for more advanced data analysis using SQL.

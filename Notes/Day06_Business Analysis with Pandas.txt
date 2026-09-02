@@ -1,0 +1,55 @@
+## Day 06 – Business Analysis with Pandas (using python)
+
+## Objective
+Analyze business performance by answering real business questions using Pandas
+
+## Key Findings
+
+### Sales by Category
+
+- Office Supplies generated the highest sales.
+- Furniture ranked second.
+- Technology ranked third.
+
+### Profit by Category
+
+- Office Supplies achieved the highest profit.
+- Technology generated more profit than Furniture despite lower sales.
+
+### Top Sub-Categories
+
+- Binders
+- Paper
+- Furnishings
+- Phones
+- Accessories
+
+### Sales by Region
+
+- West recorded the highest sales.
+- South had the lowest sales performance.
+
+
+### Sales by Customer Segment
+
+- Consumer is the largest customer segment.
+- Corporate ranked second.
+- Home Office generated the lowest sales.
+
+---
+
+## Skills Learned
+
+- Using `groupby()` for business analysis.
+- Aggregating data with `sum()`.
+- Sorting results using `sort_values()`.
+- Extracting business insights from aggregated data.
+- Comparing business performance across different dimensions.
+
+---
+
+## Conclusion
+
+The analysis shows that Office Supplies is the strongest-performing category in both sales and profit. 
+The West region contributes the highest sales, while the Consumer segment generates the largest share of revenue.
+These findings provide valuable insights for future business decisions and marketing strategies.

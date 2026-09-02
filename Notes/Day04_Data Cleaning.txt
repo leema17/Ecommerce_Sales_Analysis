@@ -1,0 +1,30 @@
+# Day 04 - Data Cleaning (using python)
+
+## Objective
+Check data quality before starting the analysis.
+## Data Quality Checks
+
+## Key Findings
+
+- The dataset is clean and contains no missing values.
+- No duplicate rows exist.
+- Data types are correctly assigned.
+- Negative profits are valid business records.
+- The dataset is ready for exploratory data analysis (EDA).
+
+---
+
+## Skills Learned
+
+- Detecting missing values using `isnull()`.
+- Identifying duplicate rows using `duplicated()`.
+- Reviewing data types using `dtypes`.
+- Summarizing numerical data using `describe()`.
+- Distinguishing between data errors and valid business scenarios.
+- Performing a basic data quality assessment before analysis.
+
+---
+## Conclusion
+
+The dataset passed all major data quality checks and does not require additional cleaning. 
+It is ready for exploratory data analysis in the next stage.

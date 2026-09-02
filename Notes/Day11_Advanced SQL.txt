@@ -1,0 +1,22 @@
+Day 11 - Advanced SQL (using SQL)
+
+- Used HAVING to filter grouped data.
+- Applied CASE WHEN to classify sales and profit.
+- Retrieved unique values using DISTINCT.
+- Filtered data using BETWEEN and IN.
+- Identified customers with a high number of orders.
+- Analyzed the most profitable states.
+
+Key SQL concepts learned:
+- HAVING
+- CASE WHEN
+- DISTINCT
+- BETWEEN
+- IN
+
+Outcome:
+I can perform advanced filtering, classify data, and generate business insights using SQL.
+
+Today I learned advanced SQL techniques such as HAVING, CASE WHEN, DISTINCT, BETWEEN, and IN. 
+These statements allowed me to filter grouped results, classify sales and profits, retrieve unique values, and answer more complex business questions. 
+I also analyzed customer activity and identified the most profitable states.

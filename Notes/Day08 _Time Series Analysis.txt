@@ -1,0 +1,42 @@
+#  Day 08 - Time Series Analysis (using Python)
+
+##  Objective
+
+Analyze sales and profit trends over time to understand business performance and identify seasonal patterns.
+
+## Key Findings
+
+### Sales by Year
+
+- Sales increased consistently from 2014 to 2017.
+- 2017 recorded the highest annual sales.
+
+### Profit by Year
+
+- Profit increased every year.
+- 2017 achieved the highest annual profit.
+
+### Sales by Month
+
+- November and December generated the highest sales.
+- January and February recorded the lowest sales.
+- Sales appear to increase during the last quarter of the year, suggesting possible seasonal demand.
+
+---
+
+## Skills Learned
+
+- Working with datetime columns using Pandas.
+- Extracting Year and Month from dates.
+- Grouping time-based data with `groupby()`.
+- Creating line charts and bar charts using Matplotlib.
+- Identifying business growth trends and seasonal patterns.
+
+
+---
+
+## Conclusion
+
+The time series analysis indicates steady business growth throughout the four-year period. 
+Sales and profits increased consistently, with strong performance during the final months of the year.
+These insights can help support forecasting and future business planning.

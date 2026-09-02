@@ -1,0 +1,14 @@
+# Day 1 - Project Setup 
+
+- Created the project folder structure.
+- Installed the required tools (Python, Jupyter Notebook, Anaconda).
+- Prepared the working environment.
+- Downloaded the Superstore dataset.
+- Organized project folders for Data, Python, SQL, Power BI, Reports, Images, and Notes.
+
+Outcome:
+The project environment is ready for data analysis.
+
+Today I prepared the development environment for the project. 
+I organized the project folders, installed the required software, and downloaded the dataset. 
+Having a well-structured workspace makes future analysis easier and more organized.

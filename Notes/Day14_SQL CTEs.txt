@@ -1,0 +1,20 @@
+Day 14 - SQL CTEs (using SQL)
+WITH CTE_Name AS (
+    SELECT ...
+)
+SELECT *
+FROM CTE_Name;
+
+- Used CTEs with WITH.
+- Created temporary result sets to simplify complex queries.
+- Used multiple CTEs to calculate averages and aggregated values.
+- Combined CTEs with SUM(), AVG(), COUNT(), GROUP BY, and HAVING.
+- Solved customer and category analysis problems using CTEs.
+
+Outcome:
+I learned how to use Common Table Expressions (CTEs) to break complex SQL queries into smaller, clearer, and more organized steps, an essential skill for technical interviews and real-world data analysis.
+
+Today I learned how to use Common Table Expressions (CTEs) to organize complex SQL queries into smaller and more readable steps. 
+I practiced using multiple CTEs with SUM(), AVG(), COUNT(), GROUP BY, HAVING, and ORDER BY. 
+I also solved customer and category analysis problems using CTEs and compared aggregated results with overall averages.
+

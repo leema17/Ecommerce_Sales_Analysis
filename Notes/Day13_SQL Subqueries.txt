@@ -1,0 +1,17 @@
+# Day 13 - SQL Subqueries (using SQL)
+
+
+- Used subqueries with WHERE.
+- Used subqueries with HAVING.
+- Compared values with overall averages.
+- Found maximum values using subqueries.
+- Solved business problems using nested SQL queries.
+
+Outcome:
+I learned how to write nested SQL queries to compare data against overall averages and summary statistics, 
+an essential skill for technical interviews and real-world business analysis.
+
+
+Today I learned how to use subqueries to solve more advanced business problems.
+I practiced writing SQL queries inside other queries to compare rows with overall averages, maximum values, and aggregated customer metrics. 
+This technique is widely used in real-world data analysis and technical interviews.

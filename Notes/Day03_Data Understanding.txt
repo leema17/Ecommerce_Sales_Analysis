@@ -1,0 +1,28 @@
+# Day 03 - Data Understanding (using Python)
+
+## Objective
+The objective of this step is to understand the dataset before performing any analysis or cleaning.
+
+## Key Findings
+
+- The dataset contains **9,994 rows** and **21 columns**.
+- The dataset was loaded successfully.
+- Date columns (`Order Date` and `Ship Date`) were automatically recognized as **datetime**.
+- Numerical columns such as **Sales**, **Profit**, **Quantity**, and **Discount** have the correct data types.
+- The dataset structure is clear and ready for the data cleaning phase.
+
+---
+
+## Skills Learned
+
+- Reading Excel files using Pandas.
+- Exploring dataset structure.
+- Understanding column data types.
+- Using `head()`, `shape`, `info()`, `dtypes`, and `describe()` to explore data.
+- Preparing a dataset for the next stage of analysis.
+
+---
+
+Conclusion
+
+The dataset has been successfully explored and understood. It is now ready for data quality assessment and cleaning in the next step.

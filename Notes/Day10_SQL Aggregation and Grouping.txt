@@ -1,0 +1,25 @@
+# Day 10 - SQL Aggregation and Grouping (using SQL)
+
+- Analyzed sales and profit by product category.
+- Calculated average sales by region.
+- Compared sales across customer segments.
+- Identified the top 10 customers by sales and profit.
+- Calculated the average discount by category.
+- Analyzed product distribution by sub-category.
+- Identified the top-performing states by total sales.
+
+Key SQL concepts learned:
+- GROUP BY
+- SUM()
+- AVG()
+- COUNT()
+- ORDER BY
+- LIMIT
+
+Outcome:
+I can summarize business data, compare performance across categories, regions, and customers,
+ and identify key business insights using SQL aggregation functions.
+
+Today I learned how to use SQL aggregation functions to summarize business data. 
+I grouped records by category, region, segment, and customer to calculate total sales, total profit, average sales, and average discounts. 
+I also identified the best-performing customers and states, which helped me understand how SQL can be used to generate business insights for decision-making.

@@ -1,0 +1,23 @@
+Day 16 - Final SQL Interview Challenge (using SQL)
+
+- Used GROUP BY and aggregate functions such as SUM() and COUNT() to analyze sales, profit, orders, customers, and products.
+- Used HAVING to filter grouped results based on conditions such as total profit and total sales.
+- Used ORDER BY and LIMIT to find the top-performing states and customers.
+- Used Subqueries to compare individual values with overall averages.
+- Used CTEs (WITH) to organize complex queries into clear and manageable steps.
+- Calculated average customer sales and profit from aggregated customer-level data.
+- Used ROW_NUMBER() to rank customers and products.
+- Used PARTITION BY to create separate rankings within each Segment or Category.
+- Found the top 3 customers by profit within each Segment.
+- Found the highest-selling product in each Category.
+- Practiced finding the top 2 most profitable products in each Category.
+- Used multiple conditions with HAVING and AND to solve business problems.
+- Practiced combining multiple CTEs and comparing summarized results with overall averages.
+- Learned when to aggregate first and filter afterward, especially when working with SUM(), AVG(), GROUP BY, and Window Functions.
+- Practiced solving SQL questions without immediately relying on the solution, similar to a real technical interview.
+
+Outcome:
+Today I completed a final SQL interview-style review and practiced combining aggregation, filtering, subqueries, CTEs, and Window Functions to solve real-world business problems. 
+I strengthened my ability to analyze customer, product, sales, and profit data and learned how to structure complex SQL queries step by step.
+
+Today I completed a final SQL interview-style review that combined the main SQL skills I learned throughout the project.

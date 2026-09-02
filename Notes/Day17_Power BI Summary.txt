@@ -1,0 +1,39 @@
+Day 17 — Power BI Summary (using Power BI)
+
+Today I started building my Power BI dashboard using the Superstore dataset. 
+I imported the data, verified the data types, created key DAX measures, and built interactive visualizations to analyze sales and profit performance.
+
+- Imported the Superstore dataset into Power BI.
+- Checked and verified the correct data types for the columns.
+- Created DAX measures for:
+1) Total Sales
+2) Total Profit
+3) Total Orders
+4) Total Customers
+5) Profit Margin
+- Learned how to use SUM() and DISTINCTCOUNT() in DAX.
+- Learned how to use DIVIDE() safely when calculating ratios.
+- Created KPI Cards to display the main business metrics.
+-Created visualizations for:
+1) Sales & Profit by Category
+2) Sales by Region
+3) Sales by Segment
+4) Top 10 Customers by Sales
+5) Top 10 Products by Sales
+6) Profit by Category
+7) Profit by Region
+8) Sales & Profit Trend by Year
+9) Monthly Sales & Profit Trend
+10) Added interactive Slicers for:
+1* Year
+2* Region
+3* Category
+- Learned how slicers interact with other visuals and dynamically update the dashboard.
+- Learned that a Power BI project can have multiple pages instead of putting every visualization on one page.
+- Started organizing the dashboard into an Executive Overview and future detailed analysis pages.
+
+Outcome:
+
+Today I learned how to build an interactive Power BI dashboard from a cleaned dataset. 
+I practiced creating DAX measures, KPI cards, charts, filters, and slicers to analyze sales, profit, customers, products, categories, regions, and trends. 
+I also learned how to organize multiple visualizations across different dashboard pages to create a clear and professional Data Analyst portfolio project.

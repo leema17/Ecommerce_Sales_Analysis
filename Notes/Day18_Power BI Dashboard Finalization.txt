@@ -1,0 +1,35 @@
+Day 18 — Power BI Dashboard Finalization (using Power BI)
+
+Today I finalized and reviewed my Power BI dashboard using the Superstore dataset.
+I improved the dashboard structure, added important profitability and loss-related visualizations, synchronized slicers across pages, and reviewed the overall dashboard layout and formatting.
+
+-Reviewed the existing Power BI dashboard without rebuilding completed visualizations.
+-Reviewed and improved the Category Analysis section.
+-Added a Profit Margin by Category visualization.
+-Reviewed the Regional Analysis section.
+-Added a Profit Margin by Region visualization.
+-Added Profit by Segment to complement Sales by Segment.
+-Reviewed the Customer Analysis section.
+-Created a Customer Sales vs Profit scatter chart.
+-Learned how to use a scatter chart to compare two numerical measures at the customer level.
+-Reviewed the Product Analysis section.
+-Created a Top 10 Products by Profit visualization.
+-Corrected the chart type from a 100% stacked bar chart to a Clustered Bar Chart so actual profit values are displayed.
+-Created a Loss-Making Products visualization to identify products with negative total profit.
+-Reviewed the yearly and monthly trend visualizations.
+-Confirmed that the Monthly Sales & Profit Trend displays both Sales and Profit.
+-Organized the dashboard sections into a clearer and more professional layout.
+-Reviewed and standardized the dashboard colors.
+-Used consistent colors for Sales and Profit across relevant visualizations.
+-Reviewed KPI card formatting and confirmed the main business metrics.
+-Synchronized the Year slicer across the required dashboard pages.
+-Synchronized the Region slicer across the required dashboard pages.
+-Synchronized the Category slicer across the required dashboard pages.
+-Tested the slicers to make sure they dynamically filter the relevant pages and visualizations.
+-Reviewed chart titles, axes, alignment, spacing, and overall dashboard readability.
+-Learned that not every useful analysis needs a separate visualization; avoiding unnecessary duplication helps keep a dashboard clear and professional.
+
+Outcome:
+Today I finalized the main Power BI dashboard for the Superstore Data Analysis project.
+I expanded the dashboard beyond basic sales analysis by including profitability, customer performance, product profitability, loss-making products, and profit margins.
+I also improved the dashboard layout, formatting, slicer synchronization, and overall usability.

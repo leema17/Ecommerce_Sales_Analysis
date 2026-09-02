@@ -1,0 +1,20 @@
+Day 14 - SQL Window Function (using SQL)
+
+FUNCTION() OVER (
+    PARTITION BY column
+    ORDER BY column
+)
+
+- Used RANK() to rank customers based on total profit.
+- Used ROW_NUMBER() to assign unique rankings within groups.
+- Used PARTITION BY to rank customers and products separately within each category or segment.
+- Combined CTEs with Window Functions to solve complex business problems.
+- Found the top customers and top-selling/profitable products within each group.
+- Used SUM(), GROUP BY, ORDER BY, and WHERE together with Window Functions.
+
+Outcome:
+I learned how to use SQL Window Functions such as RANK() and ROW_NUMBER() with PARTITION BY to rank and compare customers and products within specific groups, an essential skill for technical interviews and real-world data analysis.
+
+Today I learned how to use SQL Window Functions such as RANK() and ROW_NUMBER() to rank customers and products within specific groups. 
+I practiced using PARTITION BY and ORDER BY to compare rankings within categories and segments. 
+Window Functions helped me perform advanced analysis while keeping the original rows and making complex business questions easier to solve.

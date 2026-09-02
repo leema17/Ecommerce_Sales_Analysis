@@ -1,0 +1,53 @@
+## Day 05 - Exploratory Data Analysis (EDA) (using python)
+
+## Objective
+Calculate key business metrics and understand overall business performance.
+## Key Performance Indicators (KPIs)
+
+| KPI | Value |
+|------|-------:|
+| Total Sales | 2,297,200.86 |
+| Total Profit | 286,397.02 |
+| Total Orders | 5,009 |
+| Total Customers | 793 |
+| Average Order Value | 458.61 |
+| Profit Margin | **12.47%** |
+| Average Orders per Customer | **6.32** |
+---
+
+## Additional Business Metrics
+
+- **Profit Margin:** *(Add your calculated result here after running the code.)*
+- **Average Orders per Customer:** *(Add your calculated result here after running the code.)*
+
+---
+
+## Key Insights
+
+- The company generated **$2.30 million** in total sales.
+- The business achieved a total profit of **$286,397.02**.
+- The overall **profit margin is 12.47%**, indicating that the company earns approximately **$12.47** in profit for every **$100** in sales.
+- A total of **793 customers** placed **5,009 unique orders**.
+- On average, each customer placed **6.32 orders**, suggesting a good level of customer retention and repeat purchases.
+- The average order value is **$458.61**, representing the average revenue generated per order.
+
+---
+
+## Skills Learned
+
+- Calculating business KPIs using Pandas.
+- Using `sum()` to calculate totals.
+- Using `nunique()` to count unique values.
+- Using `groupby()` to aggregate data.
+- Calculating Average Order Value (AOV).
+- Calculating Profit Margin.
+- Calculating customer purchase frequency.
+- Interpreting business metrics to support decision-making.
+
+---
+
+## Conclusion
+
+The exploratory analysis provided a high-level overview of the company's performance. 
+The business generated strong sales, maintained a positive profit margin, and demonstrated repeat customer purchases. 
+These KPIs provide a solid foundation for deeper analysis of products, regions, customer segments, and sales trends in the following stages.

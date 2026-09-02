@@ -1,0 +1,18 @@
+Day 12 - Business SQL Analysis (using SQL)
+
+- Answered real business questions using SQL.
+- Identified the most profitable state and region.
+- Found the most used shipping method.
+- Identified the customer with the highest purchased quantity.
+- Determined the most profitable and least profitable sub-categories.
+- Analyzed average discounts by state.
+- Calculated profit margin by customer segment.
+- Compared average order values by year.
+- Identified products with high sales but low profitability.
+
+Outcome:
+I can answer business questions using SQL and transform raw data into actionable business insights.
+
+Today I practiced solving real business problems using SQL instead of simply writing queries. 
+I analyzed sales, profit, discounts, customer behavior, shipping methods, and product performance. 
+I also learned how to convert business questions into SQL queries and provide meaningful insights that support decision-making.

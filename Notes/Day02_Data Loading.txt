@@ -1,0 +1,15 @@
+# Day 2 - Data Loading (using Python)
+
+- Loaded the Superstore dataset into Python using Pandas.
+- Verified the file path.
+- Successfully imported the dataset.
+- Displayed the first rows of the dataset.
+- Checked the number of rows and columns.
+- Explored the dataset structure.
+
+Outcome:
+The dataset was successfully loaded and is ready for data exploration.
+
+Today I learned how to load a dataset into Python using Pandas. 
+I explored the dataset structure, confirmed that the file was imported successfully, and prepared it for further analysis.
+
